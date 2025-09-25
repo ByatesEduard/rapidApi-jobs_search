@@ -13,8 +13,8 @@ const PORT = process.env.PORT || 3002;
 
 // --- CORS ---
 const allowedOrigins = [
-  "https://rapid-api-jobs-search-f7xg.vercel.app", // твій фронт на Vercel
-  "http://localhost:5173" // локальна розробка
+  "https://rapid-api-jobs-search-f7xg.vercel.app", 
+  "http://localhost:5173"
 ];
 
 app.use(cors({
