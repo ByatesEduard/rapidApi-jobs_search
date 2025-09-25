@@ -1,4 +1,7 @@
 rapidApi-jobs_search
+[https://rapid-api-jobs-search-f7xg.vercel.app/register](https://rapid-api-jobs-search.vercel.app/) - backend
+https://rapid-api-jobs-search-f7xg.vercel.app/ - frontend
+
 
 Цей проєкт є фронтенд-частиною застосунку для пошуку вакансій, що використовує API від RapidAPI. Він дозволяє користувачам шукати роботу, переглядати деталі вакансій, зберігати вподобані пропозиції та створювати профіль.
 
